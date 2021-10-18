@@ -1,0 +1,13 @@
+C:\Users\saurabh.kumar\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.exe
+C:\Users\saurabh.kumar\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.deps.json
+C:\Users\saurabh.kumar\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.runtimeconfig.json
+C:\Users\saurabh.kumar\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.runtimeconfig.dev.json
+C:\Users\saurabh.kumar\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.dll
+C:\Users\saurabh.kumar\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.pdb
+C:\Users\saurabh.kumar\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saurabh.kumar\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.AssemblyInfoInputs.cache
+C:\Users\saurabh.kumar\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.AssemblyInfo.cs
+C:\Users\saurabh.kumar\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\saurabh.kumar\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.dll
+C:\Users\saurabh.kumar\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.pdb
+C:\Users\saurabh.kumar\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.genruntimeconfig.cache
